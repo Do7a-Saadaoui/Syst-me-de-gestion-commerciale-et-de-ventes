@@ -99,5 +99,5 @@ Le fichier `DATABASE.sql` est inclus dans le projet.
 ## 👩‍💻 Auteur
 
 **Doha Saadaoui**  
-- Portfolio GitHub : [https://do7a-saadaoui.github.io/my-portfolio/my-portfolio.html](https://github.com/do7a-saadaoui/my-portfolio/my-portfolio.html)
+- Portfolio GitHub : [https://do7a-saadaoui.github.io/my-portfolio/my-portfolio.html]([https://github.com/do7a-saadaoui/my-portfolio/my-portfolio.html](https://do7a-saadaoui.github.io/my-portfolio/my%20portfolio.html))
 - Email : saadaouidoha18@gmail.com
