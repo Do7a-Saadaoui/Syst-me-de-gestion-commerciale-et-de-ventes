@@ -1,0 +1,8 @@
+{
+    "require": {
+        "tecnickcom/tcpdf": "*"
+    },
+    "require-dev": {
+        "laravel/pint": "*"
+    }
+}
