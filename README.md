@@ -61,7 +61,7 @@ Le projet inclut un **tableau de bord centralisé** et un module de **rapports s
 
 ## 🗄️ Base de données
 
-Le fichier `database.sql` est inclus dans le projet.
+Le fichier `DATABASE.sql` est inclus dans le projet.
 
 ### Installation :
 1. Ouvrir phpMyAdmin
@@ -75,13 +75,13 @@ Le fichier `database.sql` est inclus dans le projet.
 
 1. Cloner le repository :
    ```bash
-   git clone https://github.com/votre-username/php-commercial-management.git
+   git clone https://github.com/Do7a-Saadaoui/Syst-me-de-gestion-commerciale-et-de-ventes.git
    ```
 2. Placer le dossier dans `htdocs` (XAMPP)
 3. Démarrer Apache et MySQL
 4. Ouvrir le navigateur :
    ```
-   http://localhost/php-commercial-management
+   http://localhost/Syst-me-de-gestion-commerciale-et-de-ventes
    ```
 
 ---
@@ -99,5 +99,5 @@ Le fichier `database.sql` est inclus dans le projet.
 ## 👩‍💻 Auteur
 
 **Doha Saadaoui**  
-- Portfolio GitHub : [https://github.com/votre-username/php-portfolio]
+- Portfolio GitHub : [[https://github.com/votre-username/php-portfolio](https://do7a-saadaoui.github.io/my-portfolio/my%20portfolio.html)]
 - Email : saadaouidoha18@gmail.com
