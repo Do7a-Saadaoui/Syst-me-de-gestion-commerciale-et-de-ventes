@@ -7,7 +7,7 @@ Le projet inclut un **tableau de bord centralisé** et un module de **rapports s
 
 ---
 
-## 🚀 Fonctionnalités principales
+## 🚀 Fonctionnalités principales 
 
 ### 🔐 Module d'Authentification (Login)
 - Connexion sécurisée pour utilisateurs/admins
@@ -99,5 +99,5 @@ Le fichier `DATABASE.sql` est inclus dans le projet.
 ## 👩‍💻 Auteur
 
 **Doha Saadaoui**  
-- Portfolio GitHub : [https://do7a-saadaoui.github.io/my-portfolio/my-portfolio.html]
+- Portfolio GitHub : [https://do7a-saadaoui.github.io/my-portfolio/my-portfolio.html](https://github.com/do7a-saadaoui/my-portfolio/my-portfolio.html)
 - Email : saadaouidoha18@gmail.com
